@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SandeepSandy19
-- 👀 I’m interested in...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sandeepreddybaddigam@gmail.com
 
 <!---
